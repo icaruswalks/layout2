@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: teal;
+    margin: 0;
+    padding: 5px;
+    border: 0;
+}
+.header h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+    display: inline;
+    vertical-align: baseline;
+    color: white;
+}
+
+.box {
+    box-sizing: border-box;
+    padding-top: 10px;
+    width: 960px;
+    height: 100%;
+    margin: 0 auto;
+
+
+}
+
+
+.card1 img {  float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox1 { content: ""; display: table; clear: both; width: 960px; }
+.card2 img { float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox2 { content: ""; display: table; clear: both; width: 960px;}
+.card3 img { float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox3 { content: ""; display: table; clear: both; width: 960px;}
+.card4 img { float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox4 { content: ""; display: table; clear: both; width: 960px;}
+.card5 img { float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox5 { content: ""; display: table; clear: both; width: 960px;}
+.card6 img { float: left; padding: 5px; width: 33%; height: auto; }
+.cardbox6 { content: ""; display: table; clear: both; width: 960px;}
+
+
+
+.t1 p { font-size: 13px; vertical-align: middle;}
+.t1 h3 { vertical-align: middle;}
+.t2 p { font-size: 13px; vertical-align: middle;}
+.t2 h3 { vertical-align: middle;}
+.t3 p { font-size: 13px; vertical-align: middle;}
+.t3 h3 { vertical-align: middle;}
+.t4 p { font-size: 13px; vertical-align: middle;}
+.t4 h3 { vertical-align: middle;}
+.t5 p { font-size: 13px; vertical-align: middle;}
+.t5 h3 { vertical-align: middle;}
+.t6 p { font-size: 13px; vertical-align: middle;}
+.t6 h3 { vertical-align: middle;}
+
+.t1 h3 { padding-top: 30px;}
+.t2 h3 { padding-top: 30px;}
+.t3 h3 { padding-top: 30px;}
+.t4 h3 { padding-top: 30px;}
+.t5 h3 { padding-top: 30px;}
+.t6 h3 { padding-top: 30px;}
+
+.t1 p { padding-top: 8px;}
+.t2 p { padding-top: 8px;}
+.t3 p { padding-top: 8px;}
+.t4 p { padding-top: 8px;}
+.t5 p { padding-top: 8px;}
+.t6 p { padding-top: 8px;}
